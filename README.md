@@ -44,7 +44,7 @@ No es necesario incluir comandos de git en el README salvo para guiar a colabora
 ```bash
 # Configurar usuario si aún no lo has hecho (reemplaza con tus datos)
 git config --global user.name "Tu Nombre"
-git config --global user.email "tu.email@ejemplo.com"
+git config --global user.email "roger_171995@hotmail.com"
 
 # Crear repo local y subirlo (reemplaza <TU-REPOSITORIO> por la URL real)
 git init
@@ -93,5 +93,5 @@ Correo: reemplaza-esto@ejemplo.com
 
 ---
 Notas:
-- Sustituye todos los placeholders (`TU-USUARIO`, `TU-REPOSITORIO`, `reemplaza-esto@ejemplo.com`) por tus datos reales.
+- Sustituye todos los placeholders (`roger_171995@hotmail.com`) por tus datos reales.
 - Considera añadir: capturas de pantalla, badge de CI, instrucciones de ejecución concretas y un archivo `.gitignore`.
